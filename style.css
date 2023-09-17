@@ -1,0 +1,34 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+    background-color: burlywood;
+}
+#logo_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+body {
+    background-color:lightgoldenrodyellow;
+}
+
+.ok {
+    font-family: monospace;
+}
+
+.no {
+    font-family: monospace;
+    border-radius: 10%;
+    background-color: burlywood;
+}
